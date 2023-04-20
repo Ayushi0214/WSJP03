@@ -1,1 +1,9 @@
-hello
+Tasks:
+1. write a program to find the area of a trapezium, take the input from the user for the required paramenters. 
+2. write a program to find the cube of 36. 
+3. Apply all the types of Arithmetic Operators on the following Variables:
+    a = 40
+    b = 5
+4. Write a program to identify if the number given by the user is a 1 digit number, 2 digit number and so on upto 5. 
+   (hint- for example, 23 is 2 digit number and 366 is a 3 digit number)
+5. Write a program to create a basic calculator in python. 
