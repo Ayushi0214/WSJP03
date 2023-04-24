@@ -1,0 +1,2 @@
+#write a program to find a factorial of a number
+#find the sum of all the even numbers upto 50
