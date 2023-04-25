@@ -1,0 +1,8 @@
+#Theatre ticket booking system
+
+# number of seats limited
+# normal / recliner
+# set prices accourdingly
+# add combos 
+# bill
+# next person
