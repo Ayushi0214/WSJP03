@@ -1,0 +1,56 @@
+Write a program to add the even numbers of a list in one list and odd numbers in another
+num = [2,4,5,3]
+even = []
+odd = []
+
+for i in num:
+    if i % 2 == 0:
+        even.append(i)
+    else:
+        odd.append(i)
+print(even)
+print(odd)
+
+
+
+Write a program to count the occurance of an element in a list 
+num = [3,4,2,45,6,3,5,7,3,6,7,3,9,45]
+
+count = 0
+for i in num:
+  if i == 45:
+    count+=1
+    
+    
+Write a program to find the sum of all the elements in a list
+num = [3,4,2,45,6,3,5,7,3,6,7,3,9,45]
+
+sum = 0
+for i in num:
+  sum+=i
+  
+print(sum)
+
+
+
+Write a program to swap first and last element of a list
+
+a = [20,40,50,10,90]
+
+a[0],a[-1] = a[-1],a[0]
+
+print(a)
+
+
+
+Write a program to find min and max values without using min and max function. 
+a = [20,40,50,10,90,10,40,50,10]
+
+a.sort()
+print(a)
+
+print(a[0])
+print(a[-1])
+
+  
+    
